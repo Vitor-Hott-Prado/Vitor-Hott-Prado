@@ -34,7 +34,6 @@ Sempre buscando novos aprendizados e evoluindo a cada projeto, com foco em desen
 ## 🛠 Tecnologias e Ferramentas
 
 <p align="center">
-  <!-- Linguagens e ferramentas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
@@ -54,8 +53,8 @@ Sempre buscando novos aprendizados e evoluindo a cada projeto, com foco em desen
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=github_dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&langs_count=10&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorhott&show_icons=true&theme=github_dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhott&layout=compact&langs_count=10&theme=github_dark"/>
 </div>
 
 ---

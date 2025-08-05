@@ -8,15 +8,17 @@
 </div>
 
 <!-- Texto animado -->
+<br><div align="center">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVitor-Hott-Prado&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+</div>
+
 <br><div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Atualmente+estudando+Desenvolvimento+de+Sistemas+no+SENAI;Apaixonado+por+Tecnologia+e+Desenvolvimento+Full+Stack;Em+constante+evolução+com+Java,+Flutter+e+Angular;Seja+muito+bem-vindo+ao+meu+perfil!"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Sou+estudante+de+Desenvolvimento+de+Sistemas+no+SENAI;Focado+em+Desenvolvimento+Full+Stack;Aprendendo+Java,+Flutter,+Angular;Seja+bem-vindo!"/>
 </div>
 
 <!-- Badge de repositórios públicos (manual) -->
 <br>
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api/?username=Vitor-Hott-Prado&show_icons=true&count_private=true&theme=midnight-purple" />
-</div>
+
 
 <!-- Estatísticas do GitHub -->
 <br>

@@ -30,18 +30,18 @@
   </div>
 
   <div align="center" style="margin-top: 20px;">
-    <img width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Java.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/HTML.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/CSS.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Sass.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/JavaScript.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/TypeScript.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/PHP.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/MySQL.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Python.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Flutter.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Angular.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Figma-Dark.svg" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" />
+  <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
+  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
+  <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" />
+  <img alt="CU++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+  <img alt="SeuCuMake" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="50" height="50" />
+  <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
   </div>
 </details>
 

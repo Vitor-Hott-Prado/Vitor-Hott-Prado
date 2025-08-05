@@ -3,9 +3,6 @@
 
 <!-- Contador de visitas -->
 <br>
-<div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVitor-Hott-Prado&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Visitantes%3A++&ta=" />
-</div>
 
 <!-- Texto animado -->
 <br><div align="center">

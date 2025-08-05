@@ -13,10 +13,6 @@
    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Sou+estudante+de+Desenvolvimento+de+Sistemas+no+SENAI;Focado+em+Desenvolvimento+Full+Stack;Aprendendo+Java,+Flutter,+Angular;Seja+bem-vindo!"/>
 </div>
 
-<!-- Badge de repositórios públicos (manual) -->
-<br>
-
-
 <!-- Estatísticas do GitHub -->
 <br>
 <div align="center">
@@ -26,6 +22,12 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor-Hott-Prado&theme=midnight_purple" alt="Profile Details"/>
   <br><br>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Vitor-Hott-Prado&theme=midnight-purple&card_width=885" alt="Streak Stats"/>
+</div>
+
+<!-- Contribuições 3D -->
+<br>
+<div align="center">
+  <img src="./profile3d.svg" alt="Gráfico 3D de Contribuições"/>
 </div>
 
 <!-- Tecnologias -->

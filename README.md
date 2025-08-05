@@ -4,7 +4,7 @@
 <div align="center">
 
   <br>
-  <samp> Seja Bem-Vindo ao  Meu Perfil </b></samp>
+  <samp>  </b></samp>
 </div>
 
 <br><div align="center">

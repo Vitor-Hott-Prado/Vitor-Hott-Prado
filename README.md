@@ -2,9 +2,9 @@
 
 <br>
 <div align="center">
-  <b>``Programador``</b>
+
   <br>
-  <samp> Olá! </b></samp>
+  <samp> Seja Bem Vindo ao  Meu Perfil </b></samp>
 </div>
 
 <br><div align="center">
@@ -36,7 +36,6 @@
   <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
   <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" />
   <img alt="CU++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
-  <img alt="SeuCuMake" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="50" height="50" />
   <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
   </div>
 </details>

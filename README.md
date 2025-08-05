@@ -12,7 +12,7 @@
 </div>
 
 <br><div align="center" width="100%">
-   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+a+student+in+Systems+Development+at+SENAI;Focused+on+Full+Stack+Development;Learning+Java,+Flutter,+Angular;Welcome!"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'Sou+estudante+de+Desenvolvimento+de+Sistemas+no+SENAI;Focado+em+Desenvolvimento+Full+Stack;Aprendendo+Java,+Flutter,+Angular;Seja+bem-vindo!"/>
 </div>
 
 

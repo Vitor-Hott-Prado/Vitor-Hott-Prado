@@ -12,7 +12,8 @@
 </div>
 
 <br><div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I'm+a+student+in+Systems+Development+at+SENAI;Focused+on+Full+Stack+Development;Learning+Java,+Flutter,+Angular;Welcome!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Atualmente+estudando+Desenvolvimento+de+Sistemas+no+SENAI;Apaixonado+por+Tecnologia+e+Desenvolvimento+Full+Stack;Em+constante+evolução+com+Java,+Flutter+e+Angular;Seja+muito+bem-vindo+ao+meu+perfil!"/>
+
 </div>
 
 

@@ -2,9 +2,9 @@
 
 <br>
 <div align="center">
-  <b>`プログラマ`</b>
+  <b>``Programador``</b>
   <br>
-  <samp>Hi there! I'm <b>Vitor Hott Prado</b></samp>
+  <samp>Olá! <b>Vitor</b></samp>
 </div>
 
 <br><div align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <details align="center">
-  <summary><samp><b>More Info</b></samp></summary>
+  <summary><samp><b>Detalhes do Perfil</b></samp></summary>
   <br>
   <div align="center">
     <img height="160" src="https://github-readme-stats.vercel.app/api/?username=Vitor-Hott-Prado&show_icons=true&count_private=true&theme=midnight-purple" alt="GitHub Stats"/>

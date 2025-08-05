@@ -8,15 +8,14 @@
 </div>
 
 <!-- Texto animado -->
-<br>
-<div align="center" width="100%">
+<br><div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Atualmente+estudando+Desenvolvimento+de+Sistemas+no+SENAI;Apaixonado+por+Tecnologia+e+Desenvolvimento+Full+Stack;Em+constante+evolução+com+Java,+Flutter+e+Angular;Seja+muito+bem-vindo+ao+meu+perfil!"/>
 </div>
 
 <!-- Badge de repositórios públicos (manual) -->
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Repositórios%20Públicos-XX-9745f5?style=for-the-badge&logo=github&logoColor=white"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/?username=Vitor-Hott-Prado&show_icons=true&count_private=true&theme=midnight-purple" />
 </div>
 
 <!-- Estatísticas do GitHub -->

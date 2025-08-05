@@ -4,7 +4,7 @@
 <div align="center">
   <b>``Programador``</b>
   <br>
-  <samp>Olá! <b>Vitor</b></samp>
+  <samp> Olá! </b></samp>
 </div>
 
 <br><div align="center">

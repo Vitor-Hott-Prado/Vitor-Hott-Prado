@@ -66,3 +66,17 @@
 <!-- Rodapé com onda -->
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
+
+
+
+
+
+<!-- Grafico de actividad GitHub -->
+[![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=marichu-kt&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph?tab=readme-ov-file)
+
+###
+
+<!-- Contribuciones 3D GitHub -->
+[![Contribuciones night-green](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+
+###

@@ -70,23 +70,3 @@
 
 
 
-
-<!-- Grafico de actividad GitHub -->
-[![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=marichu-kt&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph?tab=readme-ov-file)
-
-###
-
-<!-- Contribuciones 3D GitHub -->
-[![Contribuciones night-green](./profile-3d-contrib/profile-night-green.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
-
-###
-
-<!-- Snake Animation con enlace a Platane/snk -->
-<a href="https://github.com/Platane/snk" target="_blank" rel="noopener noreferrer">
-  <img
-    alt="github contribution snake dark"
-    src="https://raw.githubusercontent.com/marichu-kt/marichu-kt/output/github-snake-dark.svg"
-  />
-</a>
-
-###

@@ -66,8 +66,7 @@
 <!-- Rodapé com onda -->
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
-
-[![Contribuciones night-green](./profile-night-green.svg)]([https://github.com/Vitor-Hott-Prado))
+[![Contribuciones night-green](./profile-3d-contrib/profile-night-green.svg)](https://github.com/Vitor-Hott-Prado)
 
 
 

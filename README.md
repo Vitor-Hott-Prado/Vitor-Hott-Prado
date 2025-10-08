@@ -28,15 +28,6 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Vitor-Hott-Prado&theme=midnight-purple&card_width=885" alt="Streak Stats"/>
 </div>
 
-<!-- Contribuições 3D -->
-<br>
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" alt="Gráfico 3D de Contribuições"/>
-</div>
-
-> Este gráfico é gerado automaticamente com base nas suas contribuições no GitHub.  
-> Certifique-se de que o arquivo `profile3d.svg` esteja na **raiz do seu repositório**:  
-> 🔗 [github.com/Vitor-Hott-Prado](https://github.com/Vitor-Hott-Prado)
 
 <!-- Tecnologias -->
 <br>
@@ -73,13 +64,16 @@
   </a>
 </div>
 
+
+<!-- Banner -->
+<img src="assets/projects.png" alt="Banner pessoal" width="100%" />
+
+
 <!-- Rodapé com onda -->
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
 
 
-<!-- Banner -->
-<img src="assets/projects.png" alt="Banner pessoal" width="100%" />
 
 
 

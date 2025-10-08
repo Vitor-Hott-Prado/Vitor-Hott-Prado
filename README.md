@@ -29,9 +29,35 @@
 >[!NOTE]
 > 📝 Tecnologias e linguagens que domino: Java, HTML, SCSS, JavaScript, TypeScript, MySQL, Figma, Python, PHP, Flutter, Angular e GitHub.
 
-###  
+---
 
-<!-- Contato -->
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<!-- Estatísticas principais -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Hott-Prado&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+
+<!-- Linguagens mais usadas -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Hott-Prado&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+
+<!-- Streak de contribuições -->
+<img src="https://streak-stats.demolab.com?user=Vitor-Hott-Prado&theme=chartreuse-dark&hide_border=false&locale=pt_BR" height="180em" />
+
+</div>
+
+---
+
+## 🐍 Gráfico de Contribuições
+
+<div align="center">
+  <img alt="GitHub Snake Animation" src="https://github.com/Vitor-Hott-Prado/Vitor-Hott-Prado/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 📬 Contato
+
 <div align="center">
   <samp><b>Entre em contato comigo:</b></samp>
   <br><br>
@@ -46,7 +72,7 @@
   </a>
 </div>
 
-###  
+---
 
 <!-- Footer SVG -->
 [![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14&section=footer)](https://github.com/Vitor-Hott-Prado)

@@ -1,73 +1,72 @@
-<!-- Cabeçalho com onda -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
+<!-- Última atualização: 2025-10-07 01:17:33 UTC -->
+
+<!-- Header SVG -->
+[![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14)](https://github.com/kyechan99/capsule-render)
+
+###
+
+<!-- Mensagem de boas-vindas -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+@Vitor-Hott-Prado's+repository;Bem-vindo+ao+repositório+@Vitor-Hott-Prado;¡Bienvenido+a+@Vitor-Hott-Prado!;欢迎来到@Vitor-Hott-Prado的仓库;@Vitor-Hott-Prado+のリポジトリへようこそ&center=true&size=36&color=39FF14&width=1000&pause=1000&duration=2500&startDelay=300&v=4">
+  </a>
+</h1>
+
+###
+
+<!-- Banner -->
+<img src="/assets/banner.png" alt="Banner pessoal" width="100%" />
+
+###
+
+<!-- Estatísticas -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vitor-Hott-Prado&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Hott-Prado&layout=compact&theme=dracula&hide_border=true&langs_count=10" height="180" />
+  </a>
+</div>
+
+###
+
+<!-- Habilidades -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,scss,js,ts,python,php,java,mysql,flutter,angular,git,figma" />
+  </a>
+</p>
+
+>[!NOTE]
+> 🧠 Tecnologias e linguagens que domino: Java, HTML, SCSS, JavaScript, TypeScript, MySQL, Figma, Python, PHP, Flutter, Angular e GitHub.
+
+###
+
+
+<!-- Gráfico 3D das contribuições -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vitor-Hott-Prado/Vitor-Hott-Prado/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vitor-Hott-Prado/Vitor-Hott-Prado/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Profile" />
+</p>
+
+<!-- Contato -->
+📧 **Email:** [vitorhott061@gmail.com](mailto:vitorhott061@gmail.com)  
+📸 **Instagram:** [@vitinhoo_hotte](https://instagram.com/vitinhoo_hotte)  
+💬 **WhatsApp:** [+55 19 99164-0009](https://wa.me/5519991640009)  
+🌐 **Portfólio:** [github.com/Vitor-Hott-Prado](https://github.com/Vitor-Hott-Prado)
+
+###
 
 <!-- Contador de visitas -->
-<br>
-
-<!-- Texto animado -->
-<br><div align="center">
-  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVitor-Hott-Prado&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Visitas%3A++&ta=" />
-</div>
-
-<br><div align="center" width="100%">
-   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=Sou+estudante+de+Desenvolvimento+de+Sistemas+no+SENAI;Focado+em+Desenvolvimento+Full+Stack;Aprendendo+Java,+Flutter,+Angular;Seja+bem-vindo!"/>
-</div>
-
-<!-- Badge de repositórios públicos (manual) -->
-<br>
-
-
-<!-- Estatísticas do GitHub -->
-<br>
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/?username=Vitor-Hott-Prado&show_icons=true&count_private=true&theme=midnight-purple" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Hott-Prado&layout=compact&theme=midnight-purple" alt="Top Languages"/>
-  <br><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor-Hott-Prado&theme=midnight_purple" alt="Profile Details"/>
-  <br><br>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Vitor-Hott-Prado&theme=midnight-purple&card_width=885" alt="Streak Stats"/>
-</div>
-
-<!-- Tecnologias -->
-<br>
-<div align="center" style="margin-top: 20px;">
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" />
-  <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
-  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" />
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
-  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
-  <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" />
-  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
-  <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
-</div>
-
-<!-- Contatos -->
-<br>
-<div align="center">
-  <samp><b>Entre em contato comigo:</b></samp>
-  <br><br>
-  <a href="mailto:vitorhott061@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5" alt="Email" />
+<p align="center">
+  <a href="https://count.getloli.com/" target="_blank">
+    <img src="https://count.getloli.com/get/@Vitor-Hott-Prado_repo?theme=3d-num" alt="Visitor counter" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/vitinhoo_hotte">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=9745f5" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/5519991640009">
-    <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=9745f5" alt="WhatsApp" />
-  </a>
-</div>
+</p>
 
-<!-- Rodapé com onda -->
-<br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
+###
 
-
-
-
-
+<!-- Footer SVG -->
+[![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=39FF14&section=footer)](https://github.com/kyechan99/capsule-render)

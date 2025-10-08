@@ -31,13 +31,8 @@
 </p>
 
 ### <!-- Gráfico 3D das contribuições -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vitor-Hott-Prado/Vitor-Hott-Prado/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/Vitor-Hott-Prado/Vitor-Hott-Prado/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vitor-Hott-Prado/Vitor-Hott-Prado/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Profile de Vitor Hott Prado" />
-</p>
 
 ### <!-- Contato -->
 📧 **Email:** [vitorhott061@gmail.com](mailto:vitorhott061@gmail.com)  

@@ -31,8 +31,12 @@
 <!-- Contribuições 3D -->
 <br>
 <div align="center">
-  <img src="./profile3d.svg" alt="Gráfico 3D de Contribuições"/>
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="Gráfico 3D de Contribuições"/>
 </div>
+
+> Este gráfico é gerado automaticamente com base nas suas contribuições no GitHub.  
+> Certifique-se de que o arquivo `profile3d.svg` esteja na **raiz do seu repositório**:  
+> 🔗 [github.com/Vitor-Hott-Prado](https://github.com/Vitor-Hott-Prado)
 
 <!-- Tecnologias -->
 <br>

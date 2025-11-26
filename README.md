@@ -3,6 +3,7 @@
 
 <!-- Contador de visitas -->
 <br>
+![GitVideo](https://github.com/user-attachments/assets/66db5117-be42-4175-bd2f-2dfd98e3e6bc)
 
 <!-- Texto animado -->
 <br><div align="center">

@@ -80,12 +80,13 @@
 
 
 <!-- Rodapé com onda -->
-<br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer"/>
 
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer"/>
 
 
 

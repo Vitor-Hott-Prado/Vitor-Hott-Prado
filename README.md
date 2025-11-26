@@ -32,39 +32,55 @@
 </div>
 
 
-<!-- Tecnologias -->
-<br>
-<div align="center" style="margin-top: 20px;">
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" />
-  <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
-  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" />
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
-  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
-  <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" />
-  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
-  <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
+<div align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=Vitor-Hott-Prado&screen_effect=true&background=linear-gradient(to%20bottom,%20%235c86c4,%20%232b3659)&color=white" width="1600">
+</div>
+<br></br>
+<div align="center">
+  
+  <!-- Título do Inventário -->
+  <!-- Substitua pelo link da sua imagem do Textcraft se preferir a fonte do jogo -->
+  <img src="https://img.shields.io/badge/INVENTORY-Tech_Stack-2c2c2c?style=for-the-badge&logo=terraria&logoColor=white">
+  <br><br>
+
+  <!-- LINHA 1: ARMAS (Front-end) -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" height="28">
+  <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="28">
+  <br>
+
+  <!-- LINHA 2: MAGIA (Web & Logic) -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/TS-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
+  <!-- Slot Vazio Estético -->
+  <img src="https://img.shields.io/badge/Empty-Slot-202020?style=for-the-badge&logoColor=grey" height="28">
+  <br><br>
+
+  <!-- Título Ferramentas -->
+  <img src="https://img.shields.io/badge/TOOLS_&_BLUEPRINTS-Data_&_Design-2c2c2c?style=for-the-badge&logo=terraria&logoColor=white">
+  <br><br>
+
+  <!-- LINHA 3: FERRAMENTAS -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="28">
+  <img src="https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28">
+  <br>
+  
+  <!-- LINHA 4: IDEs e Deploy -->
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28">
+  <img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28">
 </div>
 
-<!-- Contatos -->
 <br>
-<div align="center">
-  <samp><b>Entre em contato comigo:</b></samp>
-  <br><br>
-  <a href="mailto:vitorhott061@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/vitinhoo_hotte">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=9745f5" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/5519991640009">
-    <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=9745f5" alt="WhatsApp" />
-  </a>
 </div>
 
 

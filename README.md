@@ -21,15 +21,7 @@
 
 
 <!-- Estatísticas do GitHub -->
-<br>
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/?username=Vitor-Hott-Prado&show_icons=true&count_private=true&theme=midnight-purple" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Hott-Prado&layout=compact&theme=midnight-purple" alt="Top Languages"/>
-  <br><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor-Hott-Prado&theme=midnight_purple" alt="Profile Details"/>
-  <br><br>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Vitor-Hott-Prado&theme=midnight-purple&card_width=885" alt="Streak Stats"/>
-</div>
+
 
 
 <div align="center">

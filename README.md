@@ -3,7 +3,7 @@
 
 <!-- Contador de visitas -->
 <br>
-https://github.com/user-attachments/assets/66db5117-be42-4175-bd2f-2dfd98e3e6bc
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/66db5117-be42-4175-bd2f-2dfd98e3e6bc" alt="Demo" />
 </p>

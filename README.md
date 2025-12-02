@@ -31,9 +31,6 @@
 <div align="center">
   
   <!--  -->
-  <!-- Substitua pelo link da sua imagem do Textcraft se preferir a fonte do jogo -->
-  <img src="https://img.shields.io/badge/INVENTORY-Tech_Stack-2c2c2c?style=for-the-badge&logo=terraria&logoColor=white">
-  <br><br>
 
   <!-- LINHA 1:  (Front-end) -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28">
@@ -48,8 +45,8 @@
   <img src="https://img.shields.io/badge/TS-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
-  <!-- Slot Vazio Estético -->
-  <img src="https://img.shields.io/badge/Empty-Slot-202020?style=for-the-badge&logoColor=grey" height="28">
+ 
+  
   <br><br>
 
   <!-- Título Ferramentas -->
